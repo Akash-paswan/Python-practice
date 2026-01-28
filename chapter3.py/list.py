@@ -18,11 +18,11 @@ marks = [94.4,87.5,95.2,66.4,45.1]    # ye square bracket to ye list hai agar cl
 # # print(students[4])
 
 # #  list slicing 
-# marks =  [85,94,76,63,48]
-# print(marks[1:4])
-# print(marks[1:])
-# print(marks[-3:-1])
+marks =  [85,94,76,63,48]
+print(marks[1:4])
+print(marks[1:])
+print(marks[-3:-1])
   
 #    Lists methods
-list = [2,1,2]
-list.append
+# list = [2,1,2]
+# list.append

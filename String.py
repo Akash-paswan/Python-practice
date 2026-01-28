@@ -21,5 +21,3 @@ len3 = len(final_str)
 final_str= str1+str2
 print(final_str)
 print(len3)
-
-#Ashish
