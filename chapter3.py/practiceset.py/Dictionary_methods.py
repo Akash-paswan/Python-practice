@@ -18,12 +18,12 @@ student= {
 # print(pairs[0])
 # print(pairs[1])
 
-print(student["name"])
-print(student.get("name"))
+# print(student["name"])
+# print(student.get("name"))
 
-#  if we write 
-# print(student["name2"])      # it will be return error
-print(student.get("name2"))    # return none vaue     
+# #  if we write 
+# # print(student["name2"])      # it will be return error
+# print(student.get("name2"))    # return none vaue     
  
 new_dict = {"name":"prakash paswan","age":22}
 student.update(new_dict)

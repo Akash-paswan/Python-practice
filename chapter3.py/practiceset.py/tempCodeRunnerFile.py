@@ -1,7 +1,4 @@
-   # len of dict to total no of key value btata hai 
-# print(list[student.keys()])
-# print([student.keys()])
-# print([student.values()])
-# print(list[student.values()])
-# print(student.items())
-# print(list(student.items()))
+
+new_dict = {"name":"prakash paswan","age":22}
+student.update(new_dict)
+print(student)          
