@@ -2,7 +2,7 @@
 collection ={1,2,3,4,"hello","world","world",4}  # iska output me koi order nhi hota  
 print(collection)
 print(type(collection))
-print(len(collection))    # total no of items 
+print(len(collection))    # total no of items    
 
 
 #   create an empty set
