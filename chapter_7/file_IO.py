@@ -13,16 +13,16 @@
 
 
 #  reding a file in python 
-f= open("demo.txt", "r")
-line1 = f.readline()
-print(line1)
+# f= open("demo.txt", "r")
+# line1 = f.readline()
+# print(line1)
 
-line2 = f.readline()
-print(line2)
-
-
-line3 = f.readline()   # isme 3 line hai to ek empty line ban diya hai output me se 
-print(line3)
+# line2 = f.readline()
+# print(line2)
 
 
-f.close()
+# line3 = f.readline()   # isme 3 line hai to ek empty line ban diya hai output me se 
+# print(line3)
+
+
+# f.close()
