@@ -1,4 +1,4 @@
-import os 
-print("Akash")
+# import os 
+# print("Akash")
 
-os.remove("smaple.txt")
+# os.remove("smaple.txt")
