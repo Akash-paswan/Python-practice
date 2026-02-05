@@ -18,11 +18,23 @@
 
 #  ques 3 
 
-word =" learning "
-# with open("practice.txt","r") as f :
+# word =" learning "
+# # with open("practice.txt","r") as f :
+# with open(" practice.txt","r") as f :
+#     data = f .read()
+#     if(data.find(word) != -1):
+#         print("FOUND")
+#     else :
+#         print("NOT FOUND ")
+
+
+count = 0
 with open(" practice.txt","r") as f :
-    data = f .read()
-    if(data.find(word) != -1):
-        print("FOUND")
-    else :
-        print("NOT FOUND ")
+    data = f.read()
+    
+    nums = data.split(",")
+for val in nums :
+ if int(val) % 2 == 0:
+  count +=1
+            
+print(count)

@@ -1,3 +1,1 @@
-hi everyone
-we are learning file I/Ousing python 
- I like programming in python 
+1,2,76,84,90,101
