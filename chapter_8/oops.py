@@ -1,5 +1,9 @@
+#   Creting  Class 
+
 # class Students :
 #     name = "akash"
+
+# create object 
 # s1 = Students()
 # print(s1.name)
 
